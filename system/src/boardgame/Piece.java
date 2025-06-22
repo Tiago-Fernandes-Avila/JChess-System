@@ -16,8 +16,8 @@ protected Board getBoard() {
     return board;
 }
 
-public void setPosition(Position position) {
-    this.position = position;
-}   
+ 
+
+
 
 }
